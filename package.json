@@ -1,0 +1,24 @@
+{
+  "name": "commodity-flow",
+  "version": "1.0.0",
+  "description": "Mapping US Commodity Flow Survey Data (2012)",
+  "main": "pipeline.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/royhobbstn/commodity-flow.git"
+  },
+  "author": "Daniel Trone",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/royhobbstn/commodity-flow/issues"
+  },
+  "homepage": "https://github.com/royhobbstn/commodity-flow#readme",
+  "dependencies": {
+    "@turf/turf": "^5.1.6",
+    "martinez-polygon-clipping": "^0.5.0",
+    "request-promise": "^4.2.2"
+  }
+}

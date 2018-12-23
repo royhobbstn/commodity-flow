@@ -59,3 +59,16 @@ typings/
 
 # next.js build output
 .next
+
+.idea/
+
+data/*.cpg
+data/*.dbf
+data/*.prj
+data/*.shp
+data/*.xml
+data/*.shx
+data/*.zip
+data/*.sbn
+data/*.sbx
+data/*.geojson
