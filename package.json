@@ -4,6 +4,7 @@
   "description": "Mapping US Commodity Flow Survey Data (2012)",
   "main": "pipeline.js",
   "scripts": {
+    "start": "cd client && npm run start",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
