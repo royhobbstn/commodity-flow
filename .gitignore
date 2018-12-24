@@ -62,13 +62,20 @@ typings/
 
 .idea/
 
-data/*.cpg
-data/*.dbf
-data/*.prj
-data/*.shp
-data/*.xml
-data/*.shx
-data/*.zip
-data/*.sbn
-data/*.sbx
-data/*.geojson
+cfs_data/*.csv
+cfs_data/*.cpg
+cfs_data/*.dbf
+cfs_data/*.prj
+cfs_data/*.shp
+cfs_data/*.xml
+cfs_data/*.shx
+cfs_data/*.zip
+cfs_data/*.sbn
+cfs_data/*.sbx
+cfs_data/*.geojson
+
+network_data/FAF3_4_ESRI/
+network_data/*.geojson
+network_data/*.mbtiles
+network_data/*.zip
+
