@@ -20,3 +20,6 @@ ogr2ogr -f GeoJSON -t_srs crs:84 USA.geojson simple_usa.shp
 
 # create a centroid point for each CFS area
 node --max-old-space-size=4096 createPoints.js
+
+# parse cfs .csv file
+node parseCFS.js

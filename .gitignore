@@ -79,3 +79,4 @@ network_data/*.geojson
 network_data/*.mbtiles
 network_data/*.zip
 
+parsed_cfs.json
