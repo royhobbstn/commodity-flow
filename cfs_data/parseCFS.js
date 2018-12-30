@@ -26,7 +26,7 @@ Papa.parse(file, {
       if(err) {
         console.log(err);
       }
-      console.log('done.');
+      console.log('parsing cfs done.');
     })
   }
 });

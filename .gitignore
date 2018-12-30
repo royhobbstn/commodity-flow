@@ -80,3 +80,13 @@ network_data/*.mbtiles
 network_data/*.zip
 
 parsed_cfs.json
+
+zip_data/*.geojson
+zip_data/*.cpg
+zip_data/*.dbf
+zip_data/*.prj
+zip_data/*.shp
+zip_data/*.xml
+zip_data/*.shp
+zip_data/*.shx
+zip_data/*.zip
