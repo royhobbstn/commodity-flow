@@ -1,23 +1,18 @@
 
-const fs = require('fs');
-const Papa = require('papaparse');
+const present = require('present');
 
-let data;
+const start_time = present();
+console.log('Attempting to load CFS data.  This may take a while.');
 
-exports.loadData = function() {
+const data = require('../cfs_data/parsed_cfs.json');
+const time = present() - start_time;
+
+exports.loadData = async function() {
   //
-  const file = fs.createReadStream('../cfs_data/cfs_2012_pumf.csv');
+  if(data.length) {
+    console.log('Data has been loaded: ' + time + ' ms.');
+  } else {
+    console.log('Problem loading data');
+  }
 
-  Papa.parse(file, {
-    header: true,
-    worker: true,
-    step: function(result) {
-      console.log(result);
-      process.exit();
-      return {};
-    },
-    complete: function(results, file) {
-      console.log('done');
-    }
-  });
 };
