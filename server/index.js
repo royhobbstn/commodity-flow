@@ -2,8 +2,6 @@
 
 const express = require("express");
 const app = express();
-const path = require('path');
-
 
 app.use(function(req, res, next) {
   res.header("Access-Control-Allow-Origin", "*");
@@ -13,6 +11,6 @@ app.use(function(req, res, next) {
 
 require("./routes/api.js")(app);
 
-const server = app.listen(8080, function() {
+const server = app.listen(4001, function() {
   console.log("Listening on port %s...", server.address().port);
 });

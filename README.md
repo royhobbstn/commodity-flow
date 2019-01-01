@@ -16,3 +16,11 @@ npm run setup
 ```
 npm run server
 ```
+
+## Data
+
+```
+GET http://localhost:8080/get-data?naics=212,311
+```
+
+To GET all data, you can ignore the `naics` query option.
