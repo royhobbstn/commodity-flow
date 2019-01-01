@@ -21,13 +21,13 @@ Papa.parse(file, {
       console.log('row: ' + count);
     }
     const row = result.data[0];
-    if(row.MODE === '03' || row.MODE === '04' || row.MODE === '05'){
+    if(row.MODE === '04'){
       const mod_row = {
-        SHIPMT_ID: row.SHIPMT_ID,
-        NAICS: row.NAICS,
-        ORIGIN_ZIP: cfs_lookup[row.ORIG_CFS_AREA].ZCTA5CE10,
-        DEST_ZIP: cfs_lookup[row.DEST_CFS_AREA].ZCTA5CE10,
-        WGT_FACTOR: row.WGT_FACTOR
+        ID: Number(row.SHIPMT_ID),
+        N: Number(row.NAICS),
+        O: cfs_lookup[row.ORIG_CFS_AREA].ZCTA5CE10,
+        D: cfs_lookup[row.DEST_CFS_AREA].ZCTA5CE10,
+        W: Number(row.WGT_FACTOR)
       };
       data.push(mod_row);
     }
