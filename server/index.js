@@ -1,4 +1,3 @@
-// node --max-old-space-size=2048 createPoints.js
 
 const express = require("express");
 const app = express();
