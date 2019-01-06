@@ -21,7 +21,7 @@ Papa.parse(file, {
       console.log('row: ' + count);
     }
     const row = result.data[0];
-    if(row.MODE === '04'){
+    if(row.MODE === '04' && (row.ORIG_CFS_AREA !== row.DEST_CFS_AREA) ){
       const mod_row = {
         ID: Number(row.SHIPMT_ID),
         N: Number(row.NAICS),

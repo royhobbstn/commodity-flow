@@ -15,15 +15,13 @@ const appRouter = function(app) {
 
     const naics = (req.query.naics || '').split(",").map(d=> Number(d));
 
-    const result = naics.length === 0 ? data : data.filter(d=> {
-      return naics.includes(d.N)
+    const result = naics.length === 0 ? data : data
+      .filter(d=> {
+      return naics.includes(d.N) // only matching naics codes is querystring
     });
 
-
     return res.status(200).send({data: result});
-
   });
-
 
 };
 
