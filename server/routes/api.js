@@ -14,6 +14,7 @@ const appRouter = function(app) {
   app.get("/get-data", function(req, res) {
 
     const naics = (req.query.naics || '').split(",").map(d=> Number(d));
+    const sctg = (req.query.sctg || '').split(",");
 
     const result = naics.length === 0 ? data : data
       .filter(d=> {

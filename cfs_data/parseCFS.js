@@ -24,7 +24,7 @@ Papa.parse(file, {
     if(row.MODE === '04' && (row.ORIG_CFS_AREA !== row.DEST_CFS_AREA) ){
       const mod_row = {
         ID: Number(row.SHIPMT_ID),
-        N: Number(row.NAICS),
+        S: row.SCTG,
         O: cfs_lookup[row.ORIG_CFS_AREA].ZCTA5CE10,
         D: cfs_lookup[row.DEST_CFS_AREA].ZCTA5CE10,
         W: Number(row.WGT_FACTOR)
