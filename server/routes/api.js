@@ -13,12 +13,11 @@ const appRouter = function(app) {
   // data to populate place name list on the client
   app.get("/get-data", function(req, res) {
 
-    const naics = (req.query.naics || '').split(",").map(d=> Number(d));
     const sctg = (req.query.sctg || '').split(",");
 
-    const result = naics.length === 0 ? data : data
+    const result = sctg.length === 0 ? data : data
       .filter(d=> {
-      return naics.includes(d.N) // only matching naics codes is querystring
+      return sctg.includes(d.S) // only matching naics codes is querystring
     });
 
     return res.status(200).send({data: result});
