@@ -21,7 +21,6 @@
   "dependencies": {
     "@turf/turf": "^5.1.6",
     "express": "^4.16.4",
-    "martinez-polygon-clipping": "^0.5.0",
     "papaparse": "^4.6.2",
     "present": "^1.0.0"
   }

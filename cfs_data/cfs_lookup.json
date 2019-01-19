@@ -1,1 +1,926 @@
-{"01-142":{"CFS12GEOID":"E330000US0114200000","ANSI_ST":"01","CFS12_AREA":"142","CFS12_NAME":"Birmingham-Hoover-Talladega, AL  CFS Area","ZCTA5CE10":"35223","lat":33.486958,"lng":-86.7153385},"01-380":{"CFS12GEOID":"E330000US0138000000","ANSI_ST":"01","CFS12_AREA":"380","CFS12_NAME":"Mobile-Daphne-Fairhope, AL  CFS Area","ZCTA5CE10":"36507","lat":30.7736605,"lng":-87.899299},"01-99999":{"CFS12GEOID":"E330000US0199999999","ANSI_ST":"01","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Alabama","ZCTA5CE10":"36006","lat":32.705694,"lng":-86.714219},"02-99999":{"CFS12GEOID":"E330000US0299999999","ANSI_ST":"02","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Alaska","lat":0,"lng":0,"ZCTA5CE10":"99503"},"04-536":{"CFS12GEOID":"E330000US0453600000","ANSI_ST":"04","CFS12_AREA":"536","CFS12_NAME":"Tucson-Nogales, AZ  CFS Area","ZCTA5CE10":"85634","lat":31.9232135,"lng":-111.8907135},"04-38060":{"CFS12GEOID":"E330000US0499938060","ANSI_ST":"04","CFS12_AREA":"38060","CFS12_NAME":"Phoenix-Mesa-Glendale, AZ  CFS Area","ZCTA5CE10":"85286","lat":33.2746875,"lng":-111.89139499999999},"04-99999":{"CFS12GEOID":"E330000US0499999999","ANSI_ST":"04","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Arizona","ZCTA5CE10":"85324","lat":34.168381000000004,"lng":-111.92966699456555},"05-99999":{"CFS12GEOID":"E330000US0599999999","ANSI_ST":"05","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Arkansas","ZCTA5CE10":"72117","lat":34.7519275,"lng":-92.131157},"06-260":{"CFS12GEOID":"E330000US0626000000","ANSI_ST":"06","CFS12_AREA":"260","CFS12_NAME":"Fresno-Madera, CA  CFS Area","ZCTA5CE10":"93619","lat":36.84245,"lng":-119.6396585},"06-348":{"CFS12GEOID":"E330000US0634800000","ANSI_ST":"06","CFS12_AREA":"348","CFS12_NAME":"Los Angeles-Long Beach, CA  CFS Area","lat":0,"lng":0,"ZCTA5CE10":"90280"},"06-472":{"CFS12GEOID":"E330000US0647200000","ANSI_ST":"06","CFS12_AREA":"472","CFS12_NAME":"Sacramento-Roseville, CA  CFS Area","ZCTA5CE10":"95650","lat":38.828963,"lng":-121.149648},"06-488":{"CFS12GEOID":"E330000US0648800000","ANSI_ST":"06","CFS12_AREA":"488","CFS12_NAME":"San Jose-San Francisco-Oakland, CA  CFS Area","lat":0,"lng":0,"ZCTA5CE10":"94110"},"06-41740":{"CFS12GEOID":"E330000US0699941740","ANSI_ST":"06","CFS12_AREA":"41740","CFS12_NAME":"San Diego-Carlsbad-San Marcos, CA  CFS Area","ZCTA5CE10":"92065","lat":33.01959050000001,"lng":-116.83838669068632},"06-99999":{"CFS12GEOID":"E330000US0699999999","ANSI_ST":"06","CFS12_AREA":"99999","CFS12_NAME":"Remainder of California","ZCTA5CE10":"93644","lat":37.417832,"lng":-119.651191},"08-216":{"CFS12GEOID":"E330000US0821600000","ANSI_ST":"08","CFS12_AREA":"216","CFS12_NAME":"Denver-Aurora, CO  CFS Area","lat":0,"lng":0,"ZCTA5CE10":"80203"},"08-99999":{"CFS12GEOID":"E330000US0899999999","ANSI_ST":"08","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Colorado","ZCTA5CE10":"80816","lat":38.957232,"lng":-105.329198},"09-25540":{"CFS12GEOID":"E330000US0927825540","ANSI_ST":"09","CFS12_AREA":"25540","CFS12_NAME":"Hartford-West Hartford-East Hartford, CT  CFS Area","ZCTA5CE10":"06073","lat":41.646350703291816,"lng":-72.56438299999999},"09-408":{"CFS12GEOID":"E330000US0940800000","ANSI_ST":"09","CFS12_AREA":"408","CFS12_NAME":"New York-Newark, NY-NJ-CT-PA  CFS Area (CT Part)","ZCTA5CE10":"06762","lat":41.51785506186341,"lng":-73.1311258789489},"09-99999":{"CFS12GEOID":"E330000US0999999999","ANSI_ST":"09","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Connecticut","ZCTA5CE10":"06254","lat":41.653325808749585,"lng":-72.12698449999999},"10-428":{"CFS12GEOID":"E330000US1042800000","ANSI_ST":"10","CFS12_AREA":"428","CFS12_NAME":"Philadelphia-Reading-Camden, PA-NJ-DE-MD  CFS Area (DE Part)","ZCTA5CE10":"19977","lat":39.3346825,"lng":-75.54783365039145},"10-99999":{"CFS12GEOID":"E330000US1099999999","ANSI_ST":"10","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Delaware","ZCTA5CE10":"19947","lat":38.706533500000006,"lng":-75.385868},"11-47900":{"CFS12GEOID":"E330000US1154847900","ANSI_ST":"11","CFS12_AREA":"47900","CFS12_NAME":"Washington-Arlington-Alexandria, DC-VA-MD-WV  CFS Area (DC Part)","ZCTA5CE10":"20001","lat":38.8935965,"lng":-77.01457199999999},"12-300":{"CFS12GEOID":"E330000US1230000000","ANSI_ST":"12","CFS12_AREA":"300","CFS12_NAME":"Jacksonville-St. Marys-Palatka, FL-GA  CFS Area (FL Part)","ZCTA5CE10":"32068","lat":30.0771615,"lng":-81.8351050395345},"12-370":{"CFS12GEOID":"E330000US1237000000","ANSI_ST":"12","CFS12_AREA":"370","CFS12_NAME":"Miami-Fort Lauderdale-Port St. Lucie, FL  CFS Area","lat":0,"lng":0,"ZCTA5CE10":"33019"},"12-422":{"CFS12GEOID":"E330000US1242200000","ANSI_ST":"12","CFS12_AREA":"422","CFS12_NAME":"Orlando-Deltona-Daytona Beach, FL  CFS Area","ZCTA5CE10":"32703","lat":28.65633111852606,"lng":-81.51960152461234},"12-45300":{"CFS12GEOID":"E330000US1299945300","ANSI_ST":"12","CFS12_AREA":"45300","CFS12_NAME":"Tampa-St. Petersburg-Clearwater, FL  CFS Area","ZCTA5CE10":"33549","lat":28.1539155,"lng":-82.456818},"12-99999":{"CFS12GEOID":"E330000US1299999999","ANSI_ST":"12","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Florida","ZCTA5CE10":"34216","lat":27.531086,"lng":-82.743017},"13-122":{"CFS12GEOID":"E330000US1312200000","ANSI_ST":"13","CFS12_AREA":"122","CFS12_NAME":"Atlanta-Athens-Clarke County-Sandy Springs, GA  CFS Area","ZCTA5CE10":"30038","lat":33.662073,"lng":-84.100679},"13-496":{"CFS12GEOID":"E330000US1349600000","ANSI_ST":"13","CFS12_AREA":"496","CFS12_NAME":"Savannah-Hinesville-Statesboro, GA  CFS Area","lat":0,"lng":0,"ZCTA5CE10":"31401"},"13-99999":{"CFS12GEOID":"E330000US1399999999","ANSI_ST":"13","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Georgia","ZCTA5CE10":"31044","lat":32.678208,"lng":-83.389998817633},"15-46520":{"CFS12GEOID":"E330000US1599946520","ANSI_ST":"15","CFS12_AREA":"46520","CFS12_NAME":"Urban Honolulu, HI  CFS Area","ZCTA5CE10":"96789","lat":21.485202,"lng":-157.9647395},"15-99999":{"CFS12GEOID":"E330000US1599999999","ANSI_ST":"15","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Hawaii","lat":0,"lng":0,"ZCTA5CE10":"96732"},"16-99999":{"CFS12GEOID":"E330000US1699999999","ANSI_ST":"16","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Idaho","ZCTA5CE10":"83463","lat":45.4944585,"lng":-114.143261},"17-176":{"CFS12GEOID":"E330000US1717600000","ANSI_ST":"17","CFS12_AREA":"176","CFS12_NAME":"Chicago-Naperville, IL-IN-WI  CFS Area (IL Part)","ZCTA5CE10":"60552","lat":41.710693000000006,"lng":-88.69324500673241},"17-476":{"CFS12GEOID":"E330000US1747600000","ANSI_ST":"17","CFS12_AREA":"476","CFS12_NAME":"St. Louis-St. Charles-Farmington, MO-IL  CFS Area (IL Part)","ZCTA5CE10":"62061","lat":38.805669,"lng":-89.8159465},"17-99999":{"CFS12GEOID":"E330000US1799999999","ANSI_ST":"17","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Illinois","ZCTA5CE10":"62563","lat":39.739318,"lng":-89.50413900000001},"18-176":{"CFS12GEOID":"E330000US1817600000","ANSI_ST":"18","CFS12_AREA":"176","CFS12_NAME":"Chicago-Naperville, IL-IN-WI  CFS Area (IN Part)","ZCTA5CE10":"46347","lat":41.24839702697866,"lng":-87.00650999999999},"18-258":{"CFS12GEOID":"E330000US1825800000","ANSI_ST":"18","CFS12_AREA":"258","CFS12_NAME":"Fort Wayne-Huntington-Auburn, IN  CFS Area","ZCTA5CE10":"46818","lat":41.1635345,"lng":-85.2443335},"18-294":{"CFS12GEOID":"E330000US1829400000","ANSI_ST":"18","CFS12_AREA":"294","CFS12_NAME":"Indianapolis-Carmel-Muncie, IN  CFS Area","ZCTA5CE10":"46131","lat":39.5524125,"lng":-86.1464365},"18-99999":{"CFS12GEOID":"E330000US1899999999","ANSI_ST":"18","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Indiana","ZCTA5CE10":"46120","lat":39.470214,"lng":-86.632206},"19-99999":{"CFS12GEOID":"E330000US1999999999","ANSI_ST":"19","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Iowa","ZCTA5CE10":"50161","lat":41.938317999999995,"lng":-93.38977249999999},"20-312":{"CFS12GEOID":"E330000US2031200000","ANSI_ST":"20","CFS12_AREA":"312","CFS12_NAME":"Kansas City-Overland Park-Kansas City, MO-KS  CFS Area (KS Part)","ZCTA5CE10":"66052","lat":39.018392500000004,"lng":-95.079369},"20-556":{"CFS12GEOID":"E330000US2055600000","ANSI_ST":"20","CFS12_AREA":"556","CFS12_NAME":"Wichita-Arkansas City-Winfield, KS  CFS Area","ZCTA5CE10":"67026","lat":37.5868135,"lng":-97.49391},"20-99999":{"CFS12GEOID":"E330000US2099999999","ANSI_ST":"20","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Kansas","ZCTA5CE10":"67427","lat":38.498091,"lng":-98.3328775},"21-178":{"CFS12GEOID":"E330000US2117800000","ANSI_ST":"21","CFS12_AREA":"178","CFS12_NAME":"Cincinnati-Wilmington-Maysville, OH-KY-IN  CFS Area (KY Part)","ZCTA5CE10":"41006","lat":38.80204,"lng":-84.3240575},"21-350":{"CFS12GEOID":"E330000US2135000000","ANSI_ST":"21","CFS12_AREA":"350","CFS12_NAME":"Louisville/Jefferson County-Elizabethtown-Madison, KY-IN  CFS Area (KY Part)","ZCTA5CE10":"40229","lat":38.079566,"lng":-85.6789175},"21-99999":{"CFS12GEOID":"E330000US2199999999","ANSI_ST":"21","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Kentucky","ZCTA5CE10":"42748","lat":37.471681,"lng":-85.63435},"22-406":{"CFS12GEOID":"E330000US2240600000","ANSI_ST":"22","CFS12_AREA":"406","CFS12_NAME":"New Orleans-Metairie-Hammond, LA-MS  CFS Area (LA Part)","ZCTA5CE10":"70032","lat":29.9693215,"lng":-89.98898650000001},"22-12940":{"CFS12GEOID":"E330000US2299912940","ANSI_ST":"22","CFS12_AREA":"12940","CFS12_NAME":"Baton Rouge, LA  CFS Area","ZCTA5CE10":"70807","lat":30.5350425,"lng":-91.148376},"22-29340":{"CFS12GEOID":"E330000US2299929340","ANSI_ST":"22","CFS12_AREA":"29340","CFS12_NAME":"Lake Charles, LA  CFS Area","ZCTA5CE10":"70607","lat":30.03979102285336,"lng":-93.2714435},"22-99999":{"CFS12GEOID":"E330000US2299999999","ANSI_ST":"22","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Louisiana","ZCTA5CE10":"71327","lat":31.0297925,"lng":-92.021153},"23-99999":{"CFS12GEOID":"E330000US2399999999","ANSI_ST":"23","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Maine","ZCTA5CE10":"04463","lat":45.258520945822866,"lng":-69.0169095},"24-12580":{"CFS12GEOID":"E330000US2454812580","ANSI_ST":"24","CFS12_AREA":"12580","CFS12_NAME":"Baltimore-Columbia-Towson, MD  CFS Area","lat":0,"lng":0,"ZCTA5CE10":"21202"},"24-47900":{"CFS12GEOID":"E330000US2454847900","ANSI_ST":"24","CFS12_AREA":"47900","CFS12_NAME":"Washington-Arlington-Alexandria, DC-VA-MD-WV  CFS Area (MD Part)","ZCTA5CE10":"20912","lat":38.965857,"lng":-77.002427},"24-99999":{"CFS12GEOID":"E330000US2499999999","ANSI_ST":"24","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Maryland","ZCTA5CE10":"20637","lat":38.5089,"lng":-76.774955},"25-148":{"CFS12GEOID":"E330000US2514800000","ANSI_ST":"25","CFS12_AREA":"148","CFS12_NAME":"Boston-Worcester-Providence, MA-RI-NH-CT  CFS Area (MA Part)","ZCTA5CE10":"02021","lat":42.19212768162817,"lng":-71.1221275},"25-99999":{"CFS12GEOID":"E330000US2599999999","ANSI_ST":"25","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Massachusetts","ZCTA5CE10":"01521","lat":42.030246,"lng":-72.135715},"26-220":{"CFS12GEOID":"E330000US2622000000","ANSI_ST":"26","CFS12_AREA":"220","CFS12_NAME":"Detroit-Warren-Ann Arbor, MI  CFS Area","ZCTA5CE10":"48331","lat":42.516819,"lng":-83.3896282470033},"26-266":{"CFS12GEOID":"E330000US2626600000","ANSI_ST":"26","CFS12_AREA":"266","CFS12_NAME":"Grand Rapids-Wyoming-Muskegon, MI  CFS Area","ZCTA5CE10":"49321","lat":43.117223,"lng":-85.64941179938009},"26-99999":{"CFS12GEOID":"E330000US2699999999","ANSI_ST":"26","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Michigan","lat":0,"lng":0,"ZCTA5CE10":"49686"},"27-378":{"CFS12GEOID":"E330000US2737800000","ANSI_ST":"27","CFS12_AREA":"378","CFS12_NAME":"Minneapolis-St. Paul, MN-WI  CFS Area (MN Part)","ZCTA5CE10":"55376","lat":45.221033,"lng":-93.690933},"27-99999":{"CFS12GEOID":"E330000US2799999999","ANSI_ST":"27","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Minnesota","ZCTA5CE10":"55760","lat":46.4418595,"lng":-93.36420799999999},"28-99999":{"CFS12GEOID":"E330000US2899999999","ANSI_ST":"28","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Mississippi","ZCTA5CE10":"39046","lat":32.588259,"lng":-89.87644850000001},"29-312":{"CFS12GEOID":"E330000US2931200000","ANSI_ST":"29","CFS12_AREA":"312","CFS12_NAME":"Kansas City-Overland Park-Kansas City, MO-KS  CFS Area (MO Part)","ZCTA5CE10":"64057","lat":39.078024,"lng":-94.295395},"29-476":{"CFS12GEOID":"E330000US2947600000","ANSI_ST":"29","CFS12_AREA":"476","CFS12_NAME":"St. Louis-St. Charles-Farmington, MO-IL  CFS Area (MO Part)","ZCTA5CE10":"63069","lat":38.434152,"lng":-90.76387199999999},"29-99999":{"CFS12GEOID":"E330000US2999999999","ANSI_ST":"29","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Missouri","ZCTA5CE10":"65032","lat":38.304661499999995,"lng":-92.436836},"30-99999":{"CFS12GEOID":"E330000US3099999999","ANSI_ST":"30","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Montana","ZCTA5CE10":"59036","lat":46.6798055,"lng":-110.04457},"31-420":{"CFS12GEOID":"E330000US3142000000","ANSI_ST":"31","CFS12_AREA":"420","CFS12_NAME":"Omaha-Council Bluffs-Fremont, NE-IA  CFS Area (NE Part)","ZCTA5CE10":"68073","lat":41.263116499999995,"lng":-96.3592455},"31-99999":{"CFS12GEOID":"E330000US3199999999","ANSI_ST":"31","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Nebraska","ZCTA5CE10":"68856","lat":41.500834499999996,"lng":-99.680902},"32-332":{"CFS12GEOID":"E330000US3233200000","ANSI_ST":"32","CFS12_AREA":"332","CFS12_NAME":"Las Vegas-Henderson, NV-AZ  CFS Area (NV Part)","lat":0,"lng":0,"ZCTA5CE10":"89102"},"32-99999":{"CFS12GEOID":"E330000US3299999999","ANSI_ST":"32","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Nevada","ZCTA5CE10":"89310","lat":39.422053500000004,"lng":-117.0230605},"33-148":{"CFS12GEOID":"E330000US3314800000","ANSI_ST":"33","CFS12_AREA":"148","CFS12_NAME":"Boston-Worcester-Providence, MA-RI-NH-CT  CFS Area (NH Part)","ZCTA5CE10":"03258","lat":43.231009,"lng":-71.39685621415968},"33-99999":{"CFS12GEOID":"E330000US3399999999","ANSI_ST":"33","CFS12_AREA":"99999","CFS12_NAME":"Remainder of New Hampshire","ZCTA5CE10":"03262","lat":44.0088425,"lng":-71.75389150000001},"34-408":{"CFS12GEOID":"E330000US3440800000","ANSI_ST":"34","CFS12_AREA":"408","CFS12_NAME":"New York-Newark, NY-NJ-CT-PA  CFS Area (NJ Part)","ZCTA5CE10":"08824","lat":40.41961376925573,"lng":-74.54894999999999},"34-428":{"CFS12GEOID":"E330000US3442800000","ANSI_ST":"34","CFS12_AREA":"428","CFS12_NAME":"Philadelphia-Reading-Camden, PA-NJ-DE-MD  CFS Area (NJ Part)","ZCTA5CE10":"08344","lat":39.556371,"lng":-74.93121405164928},"35-99999":{"CFS12GEOID":"E330000US3599999999","ANSI_ST":"35","CFS12_AREA":"99999","CFS12_NAME":"Remainder of New Mexico","ZCTA5CE10":"87011","lat":34.1662735,"lng":-106.02606850000001},"36-104":{"CFS12GEOID":"E330000US3610400000","ANSI_ST":"36","CFS12_AREA":"104","CFS12_NAME":"Albany-Schenectady, NY  CFS Area","ZCTA5CE10":"12302","lat":42.8932305,"lng":-74.007812},"36-160":{"CFS12GEOID":"E330000US3616000000","ANSI_ST":"36","CFS12_AREA":"160","CFS12_NAME":"Buffalo-Cheektowaga, NY  CFS Area","ZCTA5CE10":"14033","lat":42.68422779658637,"lng":-78.72201055293051},"36-408":{"CFS12GEOID":"E330000US3640800000","ANSI_ST":"36","CFS12_AREA":"408","CFS12_NAME":"New York-Newark, NY-NJ-CT-PA  CFS Area (NY Part)","ZCTA5CE10":"06877","lat":41.250095,"lng":-73.512948},"36-464":{"CFS12GEOID":"E330000US3646400000","ANSI_ST":"36","CFS12_AREA":"464","CFS12_NAME":"Rochester-Batavia-Seneca Falls, NY  CFS Area","ZCTA5CE10":"14469","lat":42.917348000000004,"lng":-77.526209},"36-99999":{"CFS12GEOID":"E330000US3699999999","ANSI_ST":"36","CFS12_AREA":"99999","CFS12_NAME":"Remainder of New York","ZCTA5CE10":"13033","lat":43.2181715,"lng":-76.52786900000001},"37-172":{"CFS12GEOID":"E330000US3717200000","ANSI_ST":"37","CFS12_AREA":"172","CFS12_NAME":"Charlotte-Concord, NC-SC  CFS Area  (NC Part)","ZCTA5CE10":"28031","lat":35.436411,"lng":-80.90964199999999},"37-268":{"CFS12GEOID":"E330000US3726800000","ANSI_ST":"37","CFS12_AREA":"268","CFS12_NAME":"Greensboro-Winston-Salem-High Point, NC  CFS Area","ZCTA5CE10":"27284","lat":36.0333415,"lng":-80.1056435},"37-450":{"CFS12GEOID":"E330000US3745000000","ANSI_ST":"37","CFS12_AREA":"450","CFS12_NAME":"Raleigh-Durham-Chapel Hill, NC  CFS Area","ZCTA5CE10":"27560","lat":35.867995,"lng":-78.781225},"37-99999":{"CFS12GEOID":"E330000US3799999999","ANSI_ST":"37","CFS12_AREA":"99999","CFS12_NAME":"Remainder of North Carolina","ZCTA5CE10":"27306","lat":35.21963638613678,"lng":-79.890264},"38-99999":{"CFS12GEOID":"E330000US3899999999","ANSI_ST":"38","CFS12_AREA":"99999","CFS12_NAME":"Remainder of North Dakota","ZCTA5CE10":"58463","lat":47.467878,"lng":-100.301838},"39-178":{"CFS12GEOID":"E330000US3917800000","ANSI_ST":"39","CFS12_AREA":"178","CFS12_NAME":"Cincinnati-Wilmington-Maysville, OH-KY-IN  CFS Area (OH Part)","ZCTA5CE10":"45103","lat":39.115363,"lng":-84.1982955},"39-184":{"CFS12GEOID":"E330000US3918400000","ANSI_ST":"39","CFS12_AREA":"184","CFS12_NAME":"Cleveland-Akron-Canton, OH  CFS Area","ZCTA5CE10":"44274","lat":41.09588992252218,"lng":-81.7360775},"39-198":{"CFS12GEOID":"E330000US3919800000","ANSI_ST":"39","CFS12_AREA":"198","CFS12_NAME":"Columbus-Marion-Zanesville, OH  CFS Area","ZCTA5CE10":"43046","lat":39.940249,"lng":-82.6203435},"39-212":{"CFS12GEOID":"E330000US3921200000","ANSI_ST":"39","CFS12_AREA":"212","CFS12_NAME":"Dayton-Springfield-Sidney, OH  CFS Area","ZCTA5CE10":"45373","lat":40.016748,"lng":-84.1534655},"39-99999":{"CFS12GEOID":"E330000US3999999999","ANSI_ST":"39","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Ohio","ZCTA5CE10":"43822","lat":40.16688,"lng":-82.187105},"40-416":{"CFS12GEOID":"E330000US4041600000","ANSI_ST":"40","CFS12_AREA":"416","CFS12_NAME":"Oklahoma City-Shawnee, OK  CFS Area","ZCTA5CE10":"73129","lat":35.4229405,"lng":-97.4663285},"40-538":{"CFS12GEOID":"E330000US4053800000","ANSI_ST":"40","CFS12_AREA":"538","CFS12_NAME":"Tulsa-Muskogee-Bartlesville, OK  CFS Area","ZCTA5CE10":"74114","lat":36.130548000000005,"lng":-95.930733},"40-99999":{"CFS12GEOID":"E330000US4099999999","ANSI_ST":"40","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Oklahoma","ZCTA5CE10":"73021","lat":35.3090495,"lng":-98.71654799999999},"41-440":{"CFS12GEOID":"E330000US4144000000","ANSI_ST":"41","CFS12_AREA":"440","CFS12_NAME":"Portland-Vancouver-Salem, OR-WA  CFS Area (OR Part)","ZCTA5CE10":"97002","lat":45.1944125,"lng":-122.734324},"41-99999":{"CFS12GEOID":"E330000US4199999999","ANSI_ST":"41","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Oregon","ZCTA5CE10":"97754","lat":44.1454465,"lng":-120.5078515},"42-408":{"CFS12GEOID":"E330000US4240800000","ANSI_ST":"42","CFS12_AREA":"408","CFS12_NAME":"New York-Newark, NY-NJ-CT-PA  CFS Area (PA Part)","ZCTA5CE10":"18352","lat":41.0101625,"lng":-75.343425},"42-428":{"CFS12GEOID":"E330000US4242800000","ANSI_ST":"42","CFS12_AREA":"428","CFS12_NAME":"Philadelphia-Reading-Camden, PA-NJ-DE-MD  CFS Area (PA Part)","ZCTA5CE10":"19475","lat":40.1992085,"lng":-75.58085},"42-430":{"CFS12GEOID":"E330000US4243000000","ANSI_ST":"42","CFS12_AREA":"430","CFS12_NAME":"Pittsburgh-New Castle-Weirton, PA-OH-WV  CFS Area (PA Part)","ZCTA5CE10":"15668","lat":40.4469505,"lng":-79.65915050000001},"42-99999":{"CFS12GEOID":"E330000US4299999999","ANSI_ST":"42","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Pennsylvania","ZCTA5CE10":"16841","lat":40.994823373323115,"lng":-77.7815295},"44-148":{"CFS12GEOID":"E330000US4414800000","ANSI_ST":"44","CFS12_AREA":"148","CFS12_NAME":"Boston-Worcester-Providence, MA-RI-NH-CT  CFS Area (RI Part)","ZCTA5CE10":"02852","lat":41.5825695,"lng":-71.49164541323923},"45-273":{"CFS12GEOID":"E330000US4527300000","ANSI_ST":"45","CFS12_AREA":"273","CFS12_NAME":"Greenville-Spartanburg-Anderson, SC  CFS Area","ZCTA5CE10":"29627","lat":34.584374999999994,"lng":-82.3602625},"45-16700":{"CFS12GEOID":"E330000US4599916700","ANSI_ST":"45","CFS12_AREA":"16700","CFS12_NAME":"Charleston-North Charleston-Summerville, SC  CFS Area","ZCTA5CE10":"29445","lat":33.000249999999994,"lng":-80.029957},"45-99999":{"CFS12GEOID":"E330000US4599999999","ANSI_ST":"45","CFS12_AREA":"99999","CFS12_NAME":"Remainder of South Carolina","ZCTA5CE10":"29047","lat":33.599743328746264,"lng":-80.56785317013282},"46-99999":{"CFS12GEOID":"E330000US4699999999","ANSI_ST":"46","CFS12_AREA":"99999","CFS12_NAME":"Remainder of South Dakota","ZCTA5CE10":"57532","lat":44.212536,"lng":-100.2471055},"47-314":{"CFS12GEOID":"E330000US4731400000","ANSI_ST":"47","CFS12_AREA":"314","CFS12_NAME":"Knoxville-Morristown-Sevierville, TN  CFS Area","ZCTA5CE10":"37918","lat":36.02639550000001,"lng":-83.9051265},"47-368":{"CFS12GEOID":"E330000US4736800000","ANSI_ST":"47","CFS12_AREA":"368","CFS12_NAME":"Memphis, TN-MS-AR  CFS Area (TN Part)","ZCTA5CE10":"38002","lat":35.323040000000006,"lng":-89.74712099999999},"47-400":{"CFS12GEOID":"E330000US4740000000","ANSI_ST":"47","CFS12_AREA":"400","CFS12_NAME":"Nashville-Davidson-Murfreesboro, TN  CFS Area","ZCTA5CE10":"37064","lat":35.82591,"lng":-86.761192},"47-99999":{"CFS12GEOID":"E330000US4799999999","ANSI_ST":"47","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Tennessee","ZCTA5CE10":"37110","lat":35.830613,"lng":-85.80288949999999},"48-204":{"CFS12GEOID":"E330000US4820400000","ANSI_ST":"48","CFS12_AREA":"204","CFS12_NAME":"Corpus Christi-Kingsville-Alice, TX  CFS Area","lat":0,"lng":0,"ZCTA5CE10":"78405"},"48-206":{"CFS12GEOID":"E330000US4820600000","ANSI_ST":"48","CFS12_AREA":"206","CFS12_NAME":"Dallas-Fort Worth, TX-OK  CFS Area (TX Part)","ZCTA5CE10":"75039","lat":32.877885,"lng":-96.941945},"48-238":{"CFS12GEOID":"E330000US4823800000","ANSI_ST":"48","CFS12_AREA":"238","CFS12_NAME":"El Paso-Las Cruces, TX-NM  CFS Area (TX Part)","lat":0,"lng":0,"ZCTA5CE10":"79916"},"48-288":{"CFS12GEOID":"E330000US4828800000","ANSI_ST":"48","CFS12_AREA":"288","CFS12_NAME":"Houston-The Woodlands, TX  CFS Area","ZCTA5CE10":"77040","lat":29.888417439947975,"lng":-95.5739725},"48-12420":{"CFS12GEOID":"E330000US4899912420","ANSI_ST":"48","CFS12_AREA":"12420","CFS12_NAME":"Austin-Round Rock, TX  CFS Area","ZCTA5CE10":"78725","lat":30.268453,"lng":-97.66103050000001},"48-13140":{"CFS12GEOID":"E330000US4899913140","ANSI_ST":"48","CFS12_AREA":"13140","CFS12_NAME":"Beaumont-Port Arthur, TX  CFS Area","ZCTA5CE10":"77656","lat":30.37436204502437,"lng":-94.1203855},"48-29700":{"CFS12GEOID":"E330000US4899929700","ANSI_ST":"48","CFS12_AREA":"29700","CFS12_NAME":"Laredo, TX   CFS Area","ZCTA5CE10":"78045","lat":27.7348425,"lng":-99.49779625434098},"48-41700":{"CFS12GEOID":"E330000US4899941700","ANSI_ST":"48","CFS12_AREA":"41700","CFS12_NAME":"San Antonio-New Braunfels, TX  CFS Area","ZCTA5CE10":"78236","lat":29.375805999999997,"lng":-98.617154},"48-99999":{"CFS12GEOID":"E330000US4899999999","ANSI_ST":"48","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Texas","ZCTA5CE10":"76825","lat":31.17041050756847,"lng":-99.2873855},"49-482":{"CFS12GEOID":"E330000US4948200000","ANSI_ST":"49","CFS12_AREA":"482","CFS12_NAME":"Salt Lake City-Provo-Orem, UT  CFS Area","ZCTA5CE10":"84118","lat":40.657833,"lng":-112.0242455},"49-99999":{"CFS12GEOID":"E330000US4999999999","ANSI_ST":"49","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Utah","ZCTA5CE10":"84646","lat":39.499767500000004,"lng":-111.54702800000001},"50-99999":{"CFS12GEOID":"E330000US5099999999","ANSI_ST":"50","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Vermont","ZCTA5CE10":"05077","lat":43.870819999999995,"lng":-72.451472},"51-545":{"CFS12GEOID":"E330000US5154500000","ANSI_ST":"51","CFS12_AREA":"545","CFS12_NAME":"Virginia Beach-Norfolk, VA-NC  CFS Area (VA Part)","ZCTA5CE10":"23666","lat":37.076759,"lng":-76.39900208176658},"51-47900":{"CFS12GEOID":"E330000US5154847900","ANSI_ST":"51","CFS12_AREA":"47900","CFS12_NAME":"Washington-Arlington-Alexandria, DC-VA-MD-WV  CFS Area (VA Part)","ZCTA5CE10":"20139","lat":38.657742999999996,"lng":-77.7094465},"51-40060":{"CFS12GEOID":"E330000US5199940060","ANSI_ST":"51","CFS12_AREA":"40060","CFS12_NAME":"Richmond, VA  CFS Area","ZCTA5CE10":"23224","lat":37.480174500000004,"lng":-77.491366},"51-99999":{"CFS12GEOID":"E330000US5199999999","ANSI_ST":"51","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Virginia","ZCTA5CE10":"24439","lat":38.0033855,"lng":-79.4588958282263},"53-440":{"CFS12GEOID":"E330000US5344000000","ANSI_ST":"53","CFS12_AREA":"440","CFS12_NAME":"Portland-Vancouver-Salem, OR-WA  CFS Area (WA Part)","ZCTA5CE10":"98601","lat":45.966210000000004,"lng":-122.366303},"53-500":{"CFS12GEOID":"E330000US5350000000","ANSI_ST":"53","CFS12_AREA":"500","CFS12_NAME":"Seattle-Tacoma, WA  CFS Area","ZCTA5CE10":"98059","lat":47.521027000000004,"lng":-122.0957155},"53-99999":{"CFS12GEOID":"E330000US5399999999","ANSI_ST":"53","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Washington","ZCTA5CE10":"98922","lat":47.30429597596501,"lng":-120.82070949999999},"54-99999":{"CFS12GEOID":"E330000US5499999999","ANSI_ST":"54","CFS12_AREA":"99999","CFS12_NAME":"Remainder of West Virginia","ZCTA5CE10":"26201","lat":38.9201705,"lng":-80.182055},"55-376":{"CFS12GEOID":"E330000US5537600000","ANSI_ST":"55","CFS12_AREA":"376","CFS12_NAME":"Milwaukee-Racine-Waukesha, WI  CFS Area","ZCTA5CE10":"53018","lat":43.062726999999995,"lng":-88.390082},"55-99999":{"CFS12GEOID":"E330000US5599999999","ANSI_ST":"55","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Wisconsin","ZCTA5CE10":"54455","lat":44.773295000000005,"lng":-89.8476505},"56-99999":{"CFS12GEOID":"E330000US5699999999","ANSI_ST":"56","CFS12_AREA":"99999","CFS12_NAME":"Remainder of Wyoming","ZCTA5CE10":"82642","lat":43.000248,"lng":-107.55456699999999}}
+{
+  "36-104": {
+    "lat": 42.655696,
+    "lng": -73.745632,
+    "cfs": "36-104",
+    "label": "Albany-Schenectady, NY CFS Area",
+    "ZCTA5CE10": "12207"
+  },
+  "13-122": {
+    "lat": 33.758576,
+    "lng": -84.388678,
+    "cfs": "13-122",
+    "label": "Atlanta-Athens-Clarke County-Sandy Springs, GA CFS Area",
+    "ZCTA5CE10": "30303"
+  },
+  "01-142": {
+    "lat": 33.511276,
+    "lng": -86.805204,
+    "cfs": "01-142",
+    "label": "Birmingham-Hoover-Talladega, AL CFS Area",
+    "ZCTA5CE10": "35233"
+  },
+  "25-148": {
+    "lat": 42.363312,
+    "lng": -71.056676,
+    "cfs": "25-148",
+    "label": "Boston-Worcester-Providence, MA-RI-NH-CT CFS Area (MA Part)",
+    "ZCTA5CE10": "02113"
+  },
+  "33-148": {
+    "lat": 42.74769,
+    "lng": -71.492858,
+    "cfs": "33-148",
+    "label": "Boston-Worcester-Providence, MA-RI-NH-CT CFS Area (NH Part)",
+    "ZCTA5CE10": "03062"
+  },
+  "44-148": {
+    "lat": 41.82608,
+    "lng": -71.41867,
+    "cfs": "44-148",
+    "label": "Boston-Worcester-Providence, MA-RI-NH-CT CFS Area (RI Part)",
+    "ZCTA5CE10": "02903"
+  },
+  "36-160": {
+    "lat": 42.880041,
+    "lng": -78.878661,
+    "cfs": "36-160",
+    "label": "Buffalo-Cheektowaga, NY CFS Area",
+    "ZCTA5CE10": "14202"
+  },
+  "37-172": {
+    "lat": 35.218687,
+    "lng": -80.846157,
+    "cfs": "37-172",
+    "label": "Charlotte-Concord, NC-SC CFS Area (NC Part)",
+    "ZCTA5CE10": "28202"
+  },
+  "17-176": {
+    "lat": 41.849699,
+    "lng": -87.646441,
+    "cfs": "17-176",
+    "label": "Chicago-Naperville, IL-IN-WI CFS Area (IL Part)",
+    "ZCTA5CE10": "60608"
+  },
+  "18-176": {
+    "lat": 41.597506,
+    "lng": -87.310137,
+    "cfs": "18-176",
+    "label": "Chicago-Naperville, IL-IN-WI CFS Area (IN Part)",
+    "ZCTA5CE10": "46402"
+  },
+  "21-178": {
+    "lat": 38.985515,
+    "lng": -84.641304,
+    "cfs": "21-178",
+    "label": "Cincinnati-Wilmington-Maysville, OH-KY-IN CFS Area (KY Part)",
+    "ZCTA5CE10": "41042"
+  },
+  "39-178": {
+    "lat": 39.10209,
+    "lng": -84.522108,
+    "cfs": "39-178",
+    "label": "Cincinnati-Wilmington-Maysville, OH-KY-IN CFS Area (OH Part)",
+    "ZCTA5CE10": "45202"
+  },
+  "39-184": {
+    "lat": 41.500894,
+    "lng": -81.693712,
+    "cfs": "39-184",
+    "label": "Cleveland-Akron-Canton, OH CFS Area",
+    "ZCTA5CE10": "44114"
+  },
+  "39-198": {
+    "lat": 39.957852,
+    "lng": -82.997393,
+    "cfs": "39-198",
+    "label": "Columbus-Marion-Zanesville, OH CFS Area",
+    "ZCTA5CE10": "43215"
+  },
+  "48-204": {
+    "lat": 27.79766,
+    "lng": -97.395032,
+    "cfs": "48-204",
+    "label": "Corpus Christi-Kingsville-Alice, TX CFS Area",
+    "ZCTA5CE10": "78401"
+  },
+  "48-206": {
+    "lat": 32.779272,
+    "lng": -96.782391,
+    "cfs": "48-206",
+    "label": "Dallas-Fort Worth, TX-OK CFS Area (TX Part)",
+    "ZCTA5CE10": "75226"
+  },
+  "39-212": {
+    "lat": 39.755795,
+    "lng": -84.197865,
+    "cfs": "39-212",
+    "label": "Dayton-Springfield-Sidney, OH CFS Area",
+    "ZCTA5CE10": "45402"
+  },
+  "08-216": {
+    "lat": 39.725811,
+    "lng": -105.013715,
+    "cfs": "08-216",
+    "label": "Denver-Aurora, CO CFS Area",
+    "ZCTA5CE10": "80204"
+  },
+  "26-220": {
+    "lat": 42.329059,
+    "lng": -83.04923,
+    "cfs": "26-220",
+    "label": "Detroit-Warren-Ann Arbor, MI CFS Area",
+    "ZCTA5CE10": "48226"
+  },
+  "48-238": {
+    "lat": 31.778172,
+    "lng": -106.442541,
+    "cfs": "48-238",
+    "label": "El Paso-Las Cruces, TX-NM CFS Area (TX Part)",
+    "ZCTA5CE10": "79903"
+  },
+  "18-258": {
+    "lat": 41.080518,
+    "lng": -85.138219,
+    "cfs": "18-258",
+    "label": "Fort Wayne-Huntington-Auburn, IN CFS Area",
+    "ZCTA5CE10": "46802"
+  },
+  "06-260": {
+    "lat": 36.740722,
+    "lng": -119.814316,
+    "cfs": "06-260",
+    "label": "Fresno-Madera, CA CFS Area",
+    "ZCTA5CE10": "93706"
+  },
+  "26-266": {
+    "lat": 42.97247,
+    "lng": -85.677567,
+    "cfs": "26-266",
+    "label": "Grand Rapids-Wyoming-Muskegon, MI CFS Area",
+    "ZCTA5CE10": "49504"
+  },
+  "37-268": {
+    "lat": 36.070936,
+    "lng": -79.791068,
+    "cfs": "37-268",
+    "label": "Greensboro--Winston-Salem--High Point, NC CFS Area",
+    "ZCTA5CE10": "27401"
+  },
+  "45-273": {
+    "lat": 34.854129,
+    "lng": -82.400487,
+    "cfs": "45-273",
+    "label": "Greenville-Spartanburg-Anderson, SC CFS Area",
+    "ZCTA5CE10": "29601"
+  },
+  "48-288": {
+    "lat": 29.744793,
+    "lng": -95.362949,
+    "cfs": "48-288",
+    "label": "Houston-The Woodlands, TX CFS Area",
+    "ZCTA5CE10": "77004"
+  },
+  "18-294": {
+    "lat": 39.753346,
+    "lng": -86.146018,
+    "cfs": "18-294",
+    "label": "Indianapolis-Carmel-Muncie, IN CFS Area",
+    "ZCTA5CE10": "46203"
+  },
+  "12-300": {
+    "lat": 30.336435,
+    "lng": -81.669061,
+    "cfs": "12-300",
+    "label": "Jacksonville-St. Marys-Palatka, FL-GA CFS Area (FL Part)",
+    "ZCTA5CE10": "32204"
+  },
+  "20-312": {
+    "lat": 39.104888,
+    "lng": -94.678732,
+    "cfs": "20-312",
+    "label": "Kansas City-Overland Park-Kansas City, MO-KS CFS Area (KS Part)",
+    "ZCTA5CE10": "66102"
+  },
+  "29-312": {
+    "lat": 39.096637,
+    "lng": -94.571878,
+    "cfs": "29-312",
+    "label": "Kansas City-Overland Park-Kansas City, MO-KS CFS Area (MO Part)",
+    "ZCTA5CE10": "64106"
+  },
+  "47-314": {
+    "lat": 35.967883,
+    "lng": -83.928545,
+    "cfs": "47-314",
+    "label": "Knoxville-Morristown-Sevierville, TN CFS Area",
+    "ZCTA5CE10": "37921"
+  },
+  "32-332": {
+    "lat": 36.160184,
+    "lng": -115.159946,
+    "cfs": "32-332",
+    "label": "Las Vegas-Henderson, NV-AZ CFS Area (NV Part)",
+    "ZCTA5CE10": "89106"
+  },
+  "06-348": {
+    "lat": 34.062685,
+    "lng": -118.248702,
+    "cfs": "06-348",
+    "label": "Los Angeles-Long Beach, CA CFS Area",
+    "ZCTA5CE10": "90012"
+  },
+  "21-350": {
+    "lat": 38.22867,
+    "lng": -85.750438,
+    "cfs": "21-350",
+    "label": "Louisville/Jefferson County-Elizabethtown-Madison, KY-IN CFS Area (KY Part)",
+    "ZCTA5CE10": "40208"
+  },
+  "47-368": {
+    "lat": 35.151142,
+    "lng": -90.040785,
+    "cfs": "47-368",
+    "label": "Memphis, TN-MS-AR CFS Area (TN Part)",
+    "ZCTA5CE10": "38105"
+  },
+  "12-370": {
+    "lat": 25.766774,
+    "lng": -80.198891,
+    "cfs": "12-370",
+    "label": "Miami-Fort Lauderdale-Port St. Lucie, FL CFS Area",
+    "ZCTA5CE10": "33130"
+  },
+  "55-376": {
+    "lat": 43.035708,
+    "lng": -87.924054,
+    "cfs": "55-376",
+    "label": "Milwaukee-Racine-Waukesha, WI CFS Area",
+    "ZCTA5CE10": "53233"
+  },
+  "27-378": {
+    "lat": 44.967545,
+    "lng": -93.253907,
+    "cfs": "27-378",
+    "label": "Minneapolis-St. Paul, MN-WI CFS Area (MN Part)",
+    "ZCTA5CE10": "55404"
+  },
+  "01-380": {
+    "lat": 30.6843,
+    "lng": -88.042228,
+    "cfs": "01-380",
+    "label": "Mobile-Daphne-Fairhope, AL CFS Area",
+    "ZCTA5CE10": "36602"
+  },
+  "47-400": {
+    "lat": 36.14838,
+    "lng": -86.778542,
+    "cfs": "47-400",
+    "label": "Nashville-Davidson--Murfreesboro, TN CFS Area",
+    "ZCTA5CE10": "37203"
+  },
+  "22-406": {
+    "lat": 29.952703,
+    "lng": -90.085403,
+    "cfs": "22-406",
+    "label": "New Orleans-Metairie-Hammond, LA-MS CFS Area (LA Part)",
+    "ZCTA5CE10": "70113"
+  },
+  "09-408": {
+    "lat": 41.171701,
+    "lng": -73.192405,
+    "cfs": "09-408",
+    "label": "New York-Newark, NY-NJ-CT-PA CFS Area (CT Part)",
+    "ZCTA5CE10": "06604"
+  },
+  "34-408": {
+    "lat": 40.708567,
+    "lng": -74.18048,
+    "cfs": "34-408",
+    "label": "New York-Newark, NY-NJ-CT-PA CFS Area (NJ Part)",
+    "ZCTA5CE10": "07114"
+  },
+  "36-408": {
+    "lat": 40.734321,
+    "lng": -73.922258,
+    "cfs": "36-408",
+    "label": "New York-Newark, NY-NJ-CT-PA CFS Area (NY Part)",
+    "ZCTA5CE10": "11377"
+  },
+  "42-408": {
+    "lat": 40.599647,
+    "lng": -75.559318,
+    "cfs": "42-408",
+    "label": "New York-Newark, NY-NJ-CT-PA CFS Area (PA Part)",
+    "ZCTA5CE10": "18104"
+  },
+  "40-416": {
+    "lat": 35.463112,
+    "lng": -97.494983,
+    "cfs": "40-416",
+    "label": "Oklahoma City-Shawnee, OK CFS AreaORIG_MA ORIG_STATE ORIG_CFS_AREA MA",
+    "ZCTA5CE10": "73117"
+  },
+  "31-420": {
+    "lat": 41.259012,
+    "lng": -95.953502,
+    "cfs": "31-420",
+    "label": "Omaha-Council Bluffs-Fremont, NE-IA CFS Area (NE Part)",
+    "ZCTA5CE10": "68131"
+  },
+  "12-422": {
+    "lat": 28.53405,
+    "lng": -81.383097,
+    "cfs": "12-422",
+    "label": "Orlando-Deltona-Daytona Beach, FL CFS Area",
+    "ZCTA5CE10": "32801"
+  },
+  "10-428": {
+    "lat": 39.750137,
+    "lng": -75.555732,
+    "cfs": "10-428",
+    "label": "Philadelphia-Reading-Camden, PA-NJ-DE-MD CFS Area (DE Part)",
+    "ZCTA5CE10": "19801"
+  },
+  "34-428": {
+    "lat": 39.934075,
+    "lng": -75.082133,
+    "cfs": "34-428",
+    "label": "Philadelphia-Reading-Camden, PA-NJ-DE-MD CFS Area (NJ Part)",
+    "ZCTA5CE10": "08109"
+  },
+  "42-428": {
+    "lat": 39.957041,
+    "lng": -75.152542,
+    "cfs": "42-428",
+    "label": "Philadelphia-Reading-Camden, PA-NJ-DE-MD CFS Area (PA Part)",
+    "ZCTA5CE10": "19107"
+  },
+  "42-430": {
+    "lat": 40.44018,
+    "lng": -80.009002,
+    "cfs": "42-430",
+    "label": "Pittsburgh-New Castle-Weirton, PA-OH-WV CFS Area (PA Part)",
+    "ZCTA5CE10": "15222"
+  },
+  "41-440": {
+    "lat": 45.517174,
+    "lng": -122.666883,
+    "cfs": "41-440",
+    "label": "Portland-Vancouver-Salem, OR-WA CFS Area (OR Part)",
+    "ZCTA5CE10": "97214"
+  },
+  "53-440": {
+    "lat": 45.649338,
+    "lng": -122.661362,
+    "cfs": "53-440",
+    "label": "Portland-Vancouver-Salem, OR-WA CFS Area (WA Part)",
+    "ZCTA5CE10": "98663"
+  },
+  "37-450": {
+    "lat": 35.76951,
+    "lng": -78.644532,
+    "cfs": "37-450",
+    "label": "Raleigh-Durham-Chapel Hill, NC CFS Area",
+    "ZCTA5CE10": "27601"
+  },
+  "36-464": {
+    "lat": 43.155827,
+    "lng": -77.620487,
+    "cfs": "36-464",
+    "label": "Rochester-Batavia-Seneca Falls, NY CFS Area",
+    "ZCTA5CE10": "14608"
+  },
+  "06-472": {
+    "lat": 38.568428,
+    "lng": -121.510739,
+    "cfs": "06-472",
+    "label": "Sacramento-Roseville, CA CFS Area",
+    "ZCTA5CE10": "95818"
+  },
+  "17-476": {
+    "lat": 38.933369,
+    "lng": -90.145009,
+    "cfs": "17-476",
+    "label": "St. Louis-St. Charles-Farmington, MO-IL CFS Area (IL Part)",
+    "ZCTA5CE10": "62002"
+  },
+  "29-476": {
+    "lat": 38.620147,
+    "lng": -90.18943,
+    "cfs": "29-476",
+    "label": "St. Louis-St. Charles-Farmington, MO-IL CFS Area (MO Part)",
+    "ZCTA5CE10": "63102"
+  },
+  "49-482": {
+    "lat": 40.763978,
+    "lng": -111.914627,
+    "cfs": "49-482",
+    "label": "Salt Lake City-Provo-Orem, UT CFS Area",
+    "ZCTA5CE10": "84104"
+  },
+  "06-488": {
+    "lat": 37.364223,
+    "lng": -121.901674,
+    "cfs": "06-488",
+    "label": "San Jose-San Francisco-Oakland, CA CFS Area",
+    "ZCTA5CE10": "95112"
+  },
+  "13-496": {
+    "lat": 32.071266,
+    "lng": -81.134279,
+    "cfs": "13-496",
+    "label": "Savannah-Hinesville-Statesboro, GA CFS Area",
+    "ZCTA5CE10": "31415"
+  },
+  "53-500": {
+    "lat": 47.593459,
+    "lng": -122.320759,
+    "cfs": "53-500",
+    "label": "Seattle-Tacoma, WA CFS Area",
+    "ZCTA5CE10": "98134"
+  },
+  "04-536": {
+    "lat": 32.194716,
+    "lng": -110.978893,
+    "cfs": "04-536",
+    "label": "Tucson-Nogales, AZ CFS Area",
+    "ZCTA5CE10": "85713"
+  },
+  "40-538": {
+    "lat": 36.14366,
+    "lng": -95.978515,
+    "cfs": "40-538",
+    "label": "Tulsa-Muskogee-Bartlesville, OK CFS Area",
+    "ZCTA5CE10": "74120"
+  },
+  "51-545": {
+    "lat": 36.845051,
+    "lng": -76.196435,
+    "cfs": "51-545",
+    "label": "Virginia Beach-Norfolk, VA-NC CFS Area (VA Part)",
+    "ZCTA5CE10": "23502"
+  },
+  "20-556": {
+    "lat": 37.678582,
+    "lng": -97.31256,
+    "cfs": "20-556",
+    "label": "Wichita-Arkansas City-Winfield, KS CFS Area",
+    "ZCTA5CE10": "67211"
+  },
+  "48-12420": {
+    "lat": 30.267784,
+    "lng": -97.733619,
+    "cfs": "48-12420",
+    "label": "Austin-Round Rock, TX CFS Area",
+    "ZCTA5CE10": "78702"
+  },
+  "24-12580": {
+    "lat": 39.29378,
+    "lng": -76.613052,
+    "cfs": "24-12580",
+    "label": "Baltimore-Columbia-Towson, MD CFS Area",
+    "ZCTA5CE10": "21202"
+  },
+  "22-12940": {
+    "lat": 30.438497,
+    "lng": -91.178066,
+    "cfs": "22-12940",
+    "label": "Baton Rouge, LA CFS Area",
+    "ZCTA5CE10": "70802"
+  },
+  "48-13140": {
+    "lat": 30.067984,
+    "lng": -94.133967,
+    "cfs": "48-13140",
+    "label": "Beaumont-Port Arthur, TX CFS Area",
+    "ZCTA5CE10": "77701"
+  },
+  "45-16700": {
+    "lat": 32.796385,
+    "lng": -79.942872,
+    "cfs": "45-16700",
+    "label": "Charleston-North Charleston-Summerville, SC CFS Area",
+    "ZCTA5CE10": "29403"
+  },
+  "09-25540": {
+    "lat": 41.765858,
+    "lng": -72.667615,
+    "cfs": "09-25540",
+    "label": "Hartford-West Hartford-East Hartford, CT CFS Area",
+    "ZCTA5CE10": "06103"
+  },
+  "22-29340": {
+    "lat": 30.236466,
+    "lng": -93.189279,
+    "cfs": "22-29340",
+    "label": "Lake Charles, LA CFS Area",
+    "ZCTA5CE10": "70601"
+  },
+  "48-29700": {
+    "lat": 27.506807,
+    "lng": -99.502833,
+    "cfs": "48-29700",
+    "label": "Laredo, TX CFS Area",
+    "ZCTA5CE10": "78040"
+  },
+  "04-38060": {
+    "lat": 33.462115,
+    "lng": -112.038466,
+    "cfs": "04-38060",
+    "label": "Phoenix-Mesa-Glendale, AZ CFS Area",
+    "ZCTA5CE10": "85006"
+  },
+  "51-40060": {
+    "lat": 37.533711,
+    "lng": -77.429869,
+    "cfs": "51-40060",
+    "label": "Richmond, VA CFS Area",
+    "ZCTA5CE10": "23219"
+  },
+  "48-41700": {
+    "lat": 29.431118,
+    "lng": -98.50036,
+    "cfs": "48-41700",
+    "label": "San Antonio-New Braunfels, TX CFS Area",
+    "ZCTA5CE10": "78212"
+  },
+  "06-41740": {
+    "lat": 32.724072,
+    "lng": -117.155393,
+    "cfs": "06-41740",
+    "label": "San Diego-Carlsbad-San Marcos, CA CFS Area",
+    "ZCTA5CE10": "92101"
+  },
+  "12-45300": {
+    "lat": 27.964495,
+    "lng": -82.452315,
+    "cfs": "12-45300",
+    "label": "Tampa-St. Petersburg-Clearwater, FL CFS Area",
+    "ZCTA5CE10": "33602"
+  },
+  "15-46520": {
+    "lat": 21.314677,
+    "lng": -157.854814,
+    "cfs": "15-46520",
+    "label": "Urban Honolulu, HI CFS Area",
+    "ZCTA5CE10": "96817"
+  },
+  "11-47900": {
+    "lat": 38.893722,
+    "lng": -77.053719,
+    "cfs": "11-47900",
+    "label": "Washington-Arlington-Alexandria, DC-VA-MD-WV CFS Area (DC Part)",
+    "ZCTA5CE10": "20037"
+  },
+  "24-47900": {
+    "lat": 38.984984,
+    "lng": -77.094349,
+    "cfs": "24-47900",
+    "label": "Washington-Arlington-Alexandria, DC-VA-MD-WV CFS Area (MD Part)",
+    "ZCTA5CE10": "20814"
+  },
+  "51-47900": {
+    "lat": 38.88244,
+    "lng": -77.121254,
+    "cfs": "51-47900",
+    "label": "Washington-Arlington-Alexandria, DC-VA-MD-WV CFS Area (VA Part)",
+    "ZCTA5CE10": "22203"
+  },
+  "01-99999": {
+    "lat": 32.36721,
+    "lng": -86.321765,
+    "cfs": "01-99999",
+    "label": "Remainder of Alabama CFS Area",
+    "ZCTA5CE10": "36108"
+  },
+  "02-99999": {
+    "lat": 61.216626,
+    "lng": -149.866874,
+    "cfs": "02-99999",
+    "label": "Remainder of Alaska CFS Area",
+    "ZCTA5CE10": "99501"
+  },
+  "04-99999": {
+    "lat": 35.19822,
+    "lng": -111.651407,
+    "cfs": "04-99999",
+    "label": "Remainder of Arizona CFS Area",
+    "ZCTA5CE10": "86001"
+  },
+  "05-99999": {
+    "lat": 34.733752,
+    "lng": -92.261661,
+    "cfs": "05-99999",
+    "label": "Remainder of Arkansas CFS Area",
+    "ZCTA5CE10": "72202"
+  },
+  "06-99999": {
+    "lat": 35.382114,
+    "lng": -119.009898,
+    "cfs": "06-99999",
+    "label": "Remainder of California CFS Area",
+    "ZCTA5CE10": "93301"
+  },
+  "08-99999": {
+    "lat": 38.827806,
+    "lng": -104.835385,
+    "cfs": "08-99999",
+    "label": "Remainder of Colorado CFS Area",
+    "ZCTA5CE10": "80905"
+  },
+  "09-99999": {
+    "lat": 41.546289,
+    "lng": -72.108871,
+    "cfs": "09-99999",
+    "label": "Remainder of Connecticut CFS Area",
+    "ZCTA5CE10": "06360"
+  },
+  "10-99999": {
+    "lat": 38.585524,
+    "lng": -75.295196,
+    "cfs": "10-99999",
+    "label": "Remainder of Delaware CFS Area",
+    "ZCTA5CE10": "19966"
+  },
+  "12-99999": {
+    "lat": 30.444747,
+    "lng": -84.280587,
+    "cfs": "12-99999",
+    "label": "Remainder of Florida CFS Area",
+    "ZCTA5CE10": "32301"
+  },
+  "13-99999": {
+    "lat": 32.839806,
+    "lng": -83.619377,
+    "cfs": "13-99999",
+    "label": "Remainder of Georgia CFS Area",
+    "ZCTA5CE10": "31217"
+  },
+  "15-99999": {
+    "lat": 19.726709,
+    "lng": -155.086557,
+    "cfs": "15-99999",
+    "label": "Remainder of Hawaii CFS Area",
+    "ZCTA5CE10": "96720"
+  },
+  "16-99999": {
+    "lat": 43.618161,
+    "lng": -116.231481,
+    "cfs": "16-99999",
+    "label": "Remainder of Idaho CFS Area",
+    "ZCTA5CE10": "83706"
+  },
+  "17-99999": {
+    "lat": 39.802785,
+    "lng": -89.643553,
+    "cfs": "17-99999",
+    "label": "Remainder of Illinois CFS Area",
+    "ZCTA5CE10": "62702"
+  },
+  "18-99999": {
+    "lat": 37.999235,
+    "lng": -87.537906,
+    "cfs": "18-99999",
+    "label": "Remainder of Indiana CFS Area",
+    "ZCTA5CE10": "47711"
+  },
+  "19-99999": {
+    "lat": 41.596196,
+    "lng": -93.597844,
+    "cfs": "19-99999",
+    "label": "Remainder of Iowa CFS Area",
+    "ZCTA5CE10": "50316"
+  },
+  "20-99999": {
+    "lat": 38.87468,
+    "lng": -97.645168,
+    "cfs": "20-99999",
+    "label": "Remainder of Kansas CFS Area",
+    "ZCTA5CE10": "67401"
+  },
+  "21-99999": {
+    "lat": 38.048962,
+    "lng": -84.499922,
+    "cfs": "21-99999",
+    "label": "Remainder of Kentucky CFS Area",
+    "ZCTA5CE10": "40507"
+  },
+  "22-99999": {
+    "lat": 32.510082,
+    "lng": -93.742675,
+    "cfs": "22-99999",
+    "label": "Remainder of Louisiana CFS Area",
+    "ZCTA5CE10": "71101"
+  },
+  "23-99999": {
+    "lat": 43.661901,
+    "lng": -70.269951,
+    "cfs": "23-99999",
+    "label": "Remainder of Maine CFS Area",
+    "ZCTA5CE10": "04101"
+  },
+  "24-99999": {
+    "lat": 39.645708,
+    "lng": -77.726063,
+    "cfs": "24-99999",
+    "label": "Remainder of Maryland CFS Area",
+    "ZCTA5CE10": "21740"
+  },
+  "25-99999": {
+    "lat": 42.100653,
+    "lng": -72.591845,
+    "cfs": "25-99999",
+    "label": "Remainder of Massachusetts CFS Area",
+    "ZCTA5CE10": "01103"
+  },
+  "26-99999": {
+    "lat": 42.723858,
+    "lng": -84.508393,
+    "cfs": "26-99999",
+    "label": "Remainder of Michigan CFS Area",
+    "ZCTA5CE10": "48910"
+  },
+  "27-99999": {
+    "lat": 44.007284,
+    "lng": -92.482116,
+    "cfs": "27-99999",
+    "label": "Remainder of Minnesota CFS Area",
+    "ZCTA5CE10": "55902"
+  },
+  "28-99999": {
+    "lat": 32.277804,
+    "lng": -90.186255,
+    "cfs": "28-99999",
+    "label": "Remainder of Mississippi CFS Area",
+    "ZCTA5CE10": "39201"
+  },
+  "29-99999": {
+    "lat": 37.250448,
+    "lng": -93.31055,
+    "cfs": "29-99999",
+    "label": "Remainder of Missouri CFS Area",
+    "ZCTA5CE10": "65803"
+  },
+  "30-99999": {
+    "lat": 45.796409,
+    "lng": -108.457097,
+    "cfs": "30-99999",
+    "label": "Remainder of Montana CFS Area",
+    "ZCTA5CE10": "59101"
+  },
+  "31-99999": {
+    "lat": 40.813693,
+    "lng": -96.707579,
+    "cfs": "31-99999",
+    "label": "Remainder of Nebraska CFS Area",
+    "ZCTA5CE10": "68508"
+  },
+  "32-99999": {
+    "lat": 39.537312,
+    "lng": -119.787936,
+    "cfs": "32-99999",
+    "label": "Remainder of Nevada CFS Area",
+    "ZCTA5CE10": "89512"
+  },
+  "33-99999": {
+    "lat": 44.48635,
+    "lng": -71.569263,
+    "cfs": "33-99999",
+    "label": "Remainder of New Hampshire CFS Area",
+    "ZCTA5CE10": "03584"
+  },
+  "35-99999": {
+    "lat": 35.105688,
+    "lng": -106.629214,
+    "cfs": "35-99999",
+    "label": "Remainder of New Mexico CFS Area",
+    "ZCTA5CE10": "87102"
+  },
+  "36-99999": {
+    "lat": 43.051297,
+    "lng": -76.146408,
+    "cfs": "36-99999",
+    "label": "Remainder of New York CFS Area",
+    "ZCTA5CE10": "13203"
+  },
+  "37-99999": {
+    "lat": 34.210426,
+    "lng": -77.886782,
+    "cfs": "37-99999",
+    "label": "Remainder of North Carolina CFS Area",
+    "ZCTA5CE10": "28403"
+  },
+  "38-99999": {
+    "lat": 46.847295,
+    "lng": -96.841244,
+    "cfs": "38-99999",
+    "label": "Remainder of North Dakota CFS Area",
+    "ZCTA5CE10": "58103"
+  },
+  "39-99999": {
+    "lat": 41.638187,
+    "lng": -83.545402,
+    "cfs": "39-99999",
+    "label": "Remainder of Ohio CFS Area",
+    "ZCTA5CE10": "43604"
+  },
+  "40-99999": {
+    "lat": 36.390844,
+    "lng": -97.890219,
+    "cfs": "40-99999",
+    "label": "Remainder of Oklahoma CFS Area",
+    "ZCTA5CE10": "73703"
+  },
+  "41-99999": {
+    "lat": 44.063343,
+    "lng": -123.049208,
+    "cfs": "41-99999",
+    "label": "Remainder of Oregon CFS Area",
+    "ZCTA5CE10": "97477"
+  },
+  "42-99999": {
+    "lat": 40.303248,
+    "lng": -76.880431,
+    "cfs": "42-99999",
+    "label": "Remainder of Pennsylvania CFS Area",
+    "ZCTA5CE10": "17110"
+  },
+  "45-99999": {
+    "lat": 33.997692,
+    "lng": -81.045234,
+    "cfs": "45-99999",
+    "label": "Remainder of South Carolina CFS Area",
+    "ZCTA5CE10": "29201"
+  },
+  "46-99999": {
+    "lat": 43.545169,
+    "lng": -96.731316,
+    "cfs": "46-99999",
+    "label": "Remainder of South Dakota CFS Area",
+    "ZCTA5CE10": "57104"
+  },
+  "47-99999": {
+    "lat": 35.031094,
+    "lng": -85.314817,
+    "cfs": "47-99999",
+    "label": "Remainder of Tennessee CFS Area",
+    "ZCTA5CE10": "37408"
+  },
+  "48-99999": {
+    "lat": 33.577812,
+    "lng": -101.84067,
+    "cfs": "48-99999",
+    "label": "Remainder of Texas CFS Area",
+    "ZCTA5CE10": "79401"
+  },
+  "49-99999": {
+    "lat": 37.109742,
+    "lng": -113.557802,
+    "cfs": "49-99999",
+    "label": "Remainder of Utah CFS Area",
+    "ZCTA5CE10": "84790"
+  },
+  "50-99999": {
+    "lat": 44.470238,
+    "lng": -73.184369,
+    "cfs": "50-99999",
+    "label": "Remainder of Vermont CFS Area",
+    "ZCTA5CE10": "05403"
+  },
+  "51-99999": {
+    "lat": 38.021132,
+    "lng": -78.536682,
+    "cfs": "51-99999",
+    "label": "Remainder of Virginia CFS Area",
+    "ZCTA5CE10": "22903"
+  },
+  "53-99999": {
+    "lat": 47.65262,
+    "lng": -117.411962,
+    "cfs": "53-99999",
+    "label": "Remainder of Washington CFS Area",
+    "ZCTA5CE10": "99201"
+  },
+  "54-99999": {
+    "lat": 38.360138,
+    "lng": -81.632116,
+    "cfs": "54-99999",
+    "label": "Remainder of West Virginia CFS Area",
+    "ZCTA5CE10": "25302"
+  },
+  "55-99999": {
+    "lat": 43.103422,
+    "lng": -89.284612,
+    "cfs": "55-99999",
+    "label": "Remainder of Wisconsin CFS Area",
+    "ZCTA5CE10": "53718"
+  },
+  "56-99999": {
+    "lat": 41.114454,
+    "lng": -104.851233,
+    "cfs": "56-99999",
+    "label": "Remainder of Wyoming CFS Area",
+    "ZCTA5CE10": "82007"
+  }
+}
