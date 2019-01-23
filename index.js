@@ -1,4 +1,4 @@
-
+const serverless = require('serverless-http');
 const express = require("express");
 const app = express();
 
@@ -13,3 +13,5 @@ require("./routes/api.js")(app);
 const server = app.listen(4001, function() {
   console.log("Listening on port %s...", server.address().port);
 });
+
+module.exports.handler = serverless(app);

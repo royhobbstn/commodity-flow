@@ -4,7 +4,7 @@ const present = require('present');
 const start_time = present();
 console.log('Attempting to load CFS data.  This may take a while.');
 
-const data = require('../../cfs_data/parsed_cfs.json');
+const data = require('../cfs_data/parsed_cfs.json');
 const time = present() - start_time;
 console.log(`CFS data loaded in ${time} ms.`);
 
@@ -18,6 +18,8 @@ const appRouter = function(app) {
     const result = data.filter(d=> {
       return sctg === d.S;
     });
+
+    console.log(`Found ${result.length} results.`);
 
     return res.status(200).send({data: result});
   });

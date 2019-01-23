@@ -21,7 +21,14 @@ Papa.parse(file, {
       console.log('row: ' + count);
     }
     const row = result.data[0];
-    if(row.MODE === '04' && (row.ORIG_CFS_AREA !== row.DEST_CFS_AREA) ){
+
+    // only truckload movements
+    const truck_mode = row.MODE === '03' || row.MODE === '04' || row.MODE === '05';
+    const local_shipment = row.ORIG_CFS_AREA === row.DEST_CFS_AREA;
+    const non_contiguous = ['02-99999', '15-46520', '15-99999'];
+    const contiguous_usa = !non_contiguous.includes[row.ORIG_CFS_AREA] && !non_contiguous.includes[row.DEST_CFS_AREA];
+    const suppressed = row.ORIG_CFS_AREA.includes('00000') || row.DEST_CFS_AREA.includes('00000');
+    if(truck_mode && !local_shipment && contiguous_usa && !suppressed ){
       const mod_row = {
         ID: Number(row.SHIPMT_ID),
         S: row.SCTG,

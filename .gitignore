@@ -90,3 +90,5 @@ zip_data/*.xml
 zip_data/*.shp
 zip_data/*.shx
 zip_data/*.zip
+
+.serverless

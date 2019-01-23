@@ -2,7 +2,7 @@
   "name": "commodity-flow",
   "version": "1.0.0",
   "description": "Mapping US Commodity Flow Survey Data (2012)",
-  "main": "pipeline.js",
+  "main": "index.js",
   "scripts": {
     "server": "node ./server/index.js",
     "setup": "cd cfs_data && bash ./download.sh",
@@ -22,6 +22,7 @@
     "@turf/turf": "^5.1.6",
     "express": "^4.16.4",
     "papaparse": "^4.6.2",
-    "present": "^1.0.0"
+    "present": "^1.0.0",
+    "serverless-http": "^1.9.0"
   }
 }
